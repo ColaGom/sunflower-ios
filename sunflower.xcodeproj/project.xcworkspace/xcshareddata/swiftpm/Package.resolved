@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sunflower-kmm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ColaGom/sunflower-kmm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cff384cdbc9fc0a4ab495b3cbf6ab4a843fb5166"
+      }
+    }
+  ],
+  "version" : 2
+}
